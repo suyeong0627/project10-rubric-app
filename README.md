@@ -4,7 +4,7 @@
 대학 물리/공학 실험 수업용 학생 자가평가 웹 애플리케이션
 
 ## 🌐 배포 링크
-👉 [앱 바로가기](https://suyeong0627-project10-rubric-app.streamlit.app)
+👉 [앱 바로가기]([https://suyeong0627-project10-rubric-app.streamlit.app](https://suyeong0627-project10-rubric-app-app.streamlit.app/))
 
 ## 📸 앱 미리보기
 
