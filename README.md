@@ -6,6 +6,16 @@
 ## 🌐 배포 링크
 👉 [앱 바로가기](https://suyeong0627-project10-rubric-app.streamlit.app)
 
+## 📸 앱 미리보기
+
+### 학생 뷰 - 자가평가 입력
+![학생 뷰](images/screenshot.png)
+![학생 뷰](images/screenshot01.png)
+![학생 뷰](images/screenshot02.png)
+
+### 교수자 뷰 - 군집화 대시보드
+![교수자 뷰](images/screenshot03.png)
+
 ---
 
 ## 🛠 사용 기술
