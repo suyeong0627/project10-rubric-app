@@ -20,11 +20,14 @@
 ---
 
 ## 📂 파일 구조
+
+```
 project10/
-├── app.py # 메인 애플리케이션
-├── rubrics.db # SQLite 데이터베이스
-├── requirements.txt # 패키지 목록
-└── README.md # 프로젝트 설명
+├── app.py            # 메인 애플리케이션
+├── rubrics.db        # SQLite 데이터베이스
+├── requirements.txt  # 패키지 목록
+└── README.md         # 프로젝트 설명
+```
 
 ---
 
